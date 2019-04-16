@@ -9,4 +9,4 @@ more relevant news data for better prediction.  To resolve this we use real-
 time news and then combine historical stock prices to build a better model
 to predict stock prices.
 
-# 
+### To Visualize plots SignIn at https://plot.ly/Auth/login/#/
